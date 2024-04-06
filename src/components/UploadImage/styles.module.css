@@ -1,0 +1,38 @@
+.imageWidth {
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: -15px;
+}
+
+.imageBox {
+    background-color: rgba(11, 121, 244, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5px;
+    width: 150px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.editTitle {
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 28px !important;
+    color: #162149;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.uploadbutton {
+    padding: 0 !important;
+    margin: 0 !important;
+    text-transform: none !important;
+    font-size: 10px !important;
+}
+
+.labelColor {
+    color: #263238 !important;
+}
